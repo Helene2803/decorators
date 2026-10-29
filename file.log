@@ -1,0 +1,27 @@
+29-10-2026 16:31:14 - __init__(<__main__.FlatIterator object at 0x0000019030EF92B0>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]) - None
+29-10-2026 16:31:14 - __iter__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - <__main__.FlatIterator object at 0x0000019030EF92B0>
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - a
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - b
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - c
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - d
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - e
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - f
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - h
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - False
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - 1
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - 2
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EF92B0>) - None
+29-10-2026 16:31:14 - __init__(<__main__.FlatIterator object at 0x0000019030EEAAD0>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]) - None
+29-10-2026 16:31:14 - __iter__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - <__main__.FlatIterator object at 0x0000019030EEAAD0>
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - a
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - b
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - c
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - d
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - e
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - f
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - h
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - False
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - 1
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - 2
+29-10-2026 16:31:14 - __next__(<__main__.FlatIterator object at 0x0000019030EEAAD0>) - None
+29-10-2026 16:31:14 - test_1() - None
